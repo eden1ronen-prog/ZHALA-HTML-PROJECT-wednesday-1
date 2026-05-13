@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>האתר של ארי</title>
+  </head>
+  <body>
+    <h1>שלום! אני ארי</h1>
+    <p>אני אוהב כדורגל ומיינקראפט ופוקימונ.</p>
+    <p>הצבע האהוב עליי הוא red.</p>
+  <img src="ashh.jpg">
+  <img src="pokanto.jpg">
+  <img src="pokkanto.jpg">
+    <img src="football.jpg">
+<img src="m.png">
+  </body>
+</html>
